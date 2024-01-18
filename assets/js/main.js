@@ -1,10 +1,3 @@
-/**
-* Template Name: Arsha
-* Updated: Sep 18 2023 with Bootstrap v5.3.2
-* Template URL: https://bootstrapmade.com/arsha-free-bootstrap-html-template-corporate/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
 (function() {
   "use strict";
 
@@ -256,3 +249,16 @@
   });
 
 })()
+
+// const Student = {
+//   name:"Okemwa",
+//   age: 16,
+//   course:"Medicine"
+// }
+
+// function getUser(name: String, age: number): Str {
+
+// }
+
+// let age =- 16;
+// let name 
