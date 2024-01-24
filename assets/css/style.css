@@ -1,6 +1,6 @@
 body {
   font-family: "Open Sans", sans-serif;
-  color: #444444;
+  color: #333333;
 }
 
 a {
@@ -33,7 +33,7 @@ h6 {
   bottom: 0;
   z-index: 9999;
   overflow: hidden;
-  background: #37517e;
+  background: #050f20;
 }
 
 #preloader:before {
@@ -104,7 +104,7 @@ h6 {
 
 #header.header-scrolled,
 #header.header-inner-pages {
-  background: rgba(40, 58, 90, 0.9);
+  background: rgba(0, 0, 0, 0.9);
 }
 
 #header .logo {
@@ -194,7 +194,7 @@ h6 {
 .navbar .getstarted:hover,
 .navbar .getstarted:focus:hover {
   color: #fff;
-  background: #31a9e1;
+  background: #000000;
 }
 
 .navbar .dropdown ul {
@@ -208,7 +208,7 @@ h6 {
   opacity: 0;
   visibility: hidden;
   background: #fff;
-  box-shadow: 0px 0px 30px rgba(127, 137, 161, 0.25);
+  box-shadow: 0px 0px 30px rgba(0, 2, 7, 0.945);
   transition: 0.3s;
   border-radius: 4px;
 }
@@ -297,7 +297,7 @@ h6 {
   right: 0;
   left: 0;
   bottom: 0;
-  background: rgba(40, 58, 90, 0.9);
+  background: rgba(0, 0, 0, 0.9);
   transition: 0.3s;
   z-index: 999;
 }
@@ -382,7 +382,7 @@ h6 {
 #hero {
   width: 100%;
   height: 80vh;
-  background: #37517e;
+  background: #000102;
 }
 
 #hero .container {
@@ -882,7 +882,7 @@ section {
 # Cta
 --------------------------------------------------------------*/
 .cta {
-  background: linear-gradient(rgba(40, 58, 90, 0.9), rgba(40, 58, 90, 0.9)), url("../img/cta-bg.jpg") fixed center center;
+  background: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.9)), url("../img/cta-bg.jpg") fixed center center;
   background-size: cover;
   padding: 120px 0;
 }
@@ -954,7 +954,7 @@ section {
 
 .portfolio #portfolio-flters li:hover,
 .portfolio #portfolio-flters li.filter-active {
-  background: #47b2e4;
+  background: #000000;
   color: #fff;
 }
 
@@ -978,7 +978,7 @@ section {
   z-index: 3;
   right: 15px;
   transition: all 0.3s;
-  background: rgba(55, 81, 126, 0.8);
+  background: rgba(0, 0, 0, 0.8);
   padding: 10px 15px;
 }
 
@@ -1048,7 +1048,7 @@ section {
 }
 
 .portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #47b2e4;
+  background-color: #000000;
 }
 
 .portfolio-details .portfolio-info {
@@ -1175,7 +1175,7 @@ section {
 }
 
 .team .member .social a:hover {
-  background: #47b2e4;
+  background: #000000;
 }
 
 .team .member .social a:hover i {
@@ -1274,7 +1274,7 @@ section {
 }
 
 .pricing .buy-btn:hover {
-  background: #47b2e4;
+  background: #000000;
   color: #fff;
 }
 
@@ -1283,7 +1283,7 @@ section {
 }
 
 .pricing .featured .buy-btn {
-  background: #47b2e4;
+  background: #04080a;
   color: #fff;
 }
 
@@ -1460,14 +1460,14 @@ section {
 }
 
 .contact .info .social-links a:hover {
-  background: #47b2e4;
+  background: #000000;
   color: #fff;
 }
 
 .contact .info .email:hover i,
 .contact .info .address:hover i,
 .contact .info .phone:hover i {
-  background: #47b2e4;
+  background: #000000;
   color: #fff;
 }
 
@@ -1563,7 +1563,7 @@ section {
 }
 
 .contact .php-email-form button[type=submit] {
-  background: #47b2e4;
+  background: #1d1e1f;
   border: 0;
   padding: 12px 34px;
   color: #fff;
@@ -1572,7 +1572,7 @@ section {
 }
 
 .contact .php-email-form button[type=submit]:hover {
-  background: #209dd8;
+  background: #000102;
 }
 
 @keyframes animate-loading {
@@ -1683,7 +1683,7 @@ section {
   background: none;
   font-size: 16px;
   padding: 0 20px;
-  background: #47b2e4;
+  background: #202020;
   color: #fff;
   transition: 0.3s;
   border-radius: 50px;
@@ -1691,7 +1691,7 @@ section {
 }
 
 #footer .footer-newsletter form input[type=submit]:hover {
-  background: #209dd8;
+  background: #000000;
 }
 
 #footer .footer-top {
@@ -1771,7 +1771,7 @@ section {
 #footer .footer-top .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #47b2e4;
+  background: #000000;
   color: #fff;
   line-height: 1;
   padding: 8px 0;
@@ -1784,7 +1784,7 @@ section {
 }
 
 #footer .footer-top .social-links a:hover {
-  background: #209dd8;
+  background: #010f16;
   color: #fff;
   text-decoration: none;
 }
@@ -1793,6 +1793,7 @@ section {
   padding-top: 30px;
   padding-bottom: 30px;
   color: #fff;
+  /* background-color: #000000; */
 }
 
 #footer .copyright {
