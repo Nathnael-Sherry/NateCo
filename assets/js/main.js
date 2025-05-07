@@ -249,16 +249,3 @@
   });
 
 })()
-
-// const Student = {
-//   name:"Okemwa",
-//   age: 16,
-//   course:"Medicine"
-// }
-
-// function getUser(name: String, age: number): Str {
-
-// }
-
-// let age =- 16;
-// let name 
